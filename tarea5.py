@@ -1,0 +1,2 @@
+# Crea un juego en el que el programa genera un número aleatorio entre 1 y 10. El usuario debe adivinar el número y solo tiene 3 intentos.
+# Proporciona pistas como “demasiado alto” o “demasiado bajo” según las suposiciones del usuario.

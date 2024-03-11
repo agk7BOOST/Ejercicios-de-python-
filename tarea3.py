@@ -1,0 +1,2 @@
+# Hacer un algoritmo que permita al cliente dejar una reseña de 1 a 5 estrellas, y en caso de que la reseña sea inferior a 3 pedirle que ingrese una recomendacion a mejorar
+# esta nota se debe de guardar en un archivo de texto aparte 
